@@ -76,7 +76,3 @@ Result: 15.0
 - Add more operations (subtraction, power, square root) by implementing new decorators.
 - Introduce logging or validation decorators.
 - Build a GUI version using the same core logic.
-
----
-
-Feel free to use this project as a learning example for the Decorator pattern and SOLID principles in Java.
